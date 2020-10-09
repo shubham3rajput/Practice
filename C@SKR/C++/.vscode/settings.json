@@ -1,0 +1,15 @@
+{
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.associations": {
+        "ostream": "cpp",
+        "random": "cpp"
+    },
+    "python.pythonPath": "C:\\Users\\SHUBHAM SINGH RAJPUT\\PYTHON\\python.exe",
+    "python.linting.enabled": true,
+    "python.linting.pylintEnabled": true,
+    // "workbench.colorCustomizations": {
+    //     "activityBar.background": "#590ccc",
+    //     "titleBar.activeBackground": "#643228",
+    //     "titleBar.activeForeground": "#FDF9F9"
+    // }
+}
